@@ -1,4 +1,7 @@
 #!/bin/bash
+##Input parameters:
+## $1 IP of knx gateway
+## $2 Group Address DPT 10.001 
 
 DW=$(date +%u)
 HH=$(date +%H)
