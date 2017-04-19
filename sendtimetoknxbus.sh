@@ -1,4 +1,7 @@
 #!/bin/bash
+##
+##requirements: knxd with groupwrite
+##
 ##Input parameters:
 ## $1 IP of knx gateway
 ## $2 Group Address DPT 10.001 
